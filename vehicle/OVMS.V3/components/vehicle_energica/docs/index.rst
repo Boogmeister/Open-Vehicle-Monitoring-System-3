@@ -4,6 +4,8 @@ Energica motorbikes
 
 Vehicle Type: **NR**
 
+Requires firmware 3.3.004-250-g0e583ca6 or later.
+
 This vehicle aims to support all Energica motorbikes:
 * EsseEsse9 (SS9)
 * Eva Ribelle
